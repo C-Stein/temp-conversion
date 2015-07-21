@@ -1,9 +1,28 @@
+body {
+	background-image: url("dreamstimefree_283960.jpg");
+}
+h1 {
+	color: white;
+}
 input[type=number]{
     width: 40px;
 } 
 div {
 	padding: 20px;
+	background-color: white;
+	width: 45%;
+	border-radius: 15px;
 }
 p {
 	display: inline;
+}
+h1, div{
+	margin: 20px auto;
+}
+h1 {
+	text-align: center;
+}
+button {
+    width: 10%;
+	margin: 10px 45% 10px 45%;
 }
