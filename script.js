@@ -60,20 +60,3 @@ var button = document.getElementById("converter");
 button.onclick = determineConverter;
 
 ////////////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-//document.getElementById("num").addEventListener("blur", addItem(){n  = document.getElementById("num").innerHTML;});
-// This function should determine which conversion should
-// happen based on which radio button is selected.
-
-console.log(newNum);
-//document.getElementById("newNum").innerHTML = newNum;
-// Get a reference to the button element in the DOM
-var button = document.getElementById("converter");
-
-// Assign a function to be executed when the button is clicked
-button.onclick = determineConverter;
